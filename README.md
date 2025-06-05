@@ -25,5 +25,3 @@ I'm currently studying<br>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jazblue25/jazblue25/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jazblue25/jazblue25/output/pacman-contribution-graph.svg">
 </picture>
-
-###
