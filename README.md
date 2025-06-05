@@ -20,6 +20,6 @@ I'm currently studying<br>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<img src="https://raw.githubusercontent.com/jazblue25/jazblue25/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/JazBlue25/JazBlue25/output/snake.svg" alt="Snake animation" />
 
 ###
