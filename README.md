@@ -19,9 +19,6 @@ I'm currently studying<br>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<img src="https://raw.githubusercontent.com/JazBlue25/JazBlue25/output/snake.svg" alt="Snake animation" />
-
-###
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JazBlue25/JazBlue25/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JazBlue25/JazBlue25/output/pacman-contribution-graph.svg">
@@ -30,4 +27,6 @@ I'm currently studying<br>
 
 ###
 
+<img src="https://raw.githubusercontent.com/JazBlue25/JazBlue25/output/snake.svg" alt="Snake animation" />
 
+###
